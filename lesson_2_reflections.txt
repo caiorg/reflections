@@ -22,6 +22,8 @@ organized? How would branches help?
 	Adding experimental features, making changes yet keeping master untouched
 
 How do the diagrams help you visualize the branch structure?
+	
+	They give me a visual feedback of the commits hierarchy.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
