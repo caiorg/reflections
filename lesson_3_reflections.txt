@@ -28,7 +28,7 @@ into another group, but it's subjective on how to this separation.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    To be able to merge manually and detecting merge conflicts.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
