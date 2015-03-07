@@ -39,4 +39,5 @@ version control from me. Also it would be harder to collaborate with others.
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I'd do that if there's a bug oy an experimental feature and I want to work on it,
+run some tests before merging it with master branch.
